@@ -12,7 +12,7 @@ export function generate(input: Input): Output {
         type: "github",
         owner: "stackblitz-labs",
         repo: "bolt.diy",
-        ref: "main",
+        ref: "stable",
         path: "/",
         autoDeploy: false,
       },
